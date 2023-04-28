@@ -1,7 +1,10 @@
 # Stock-Option-Trading-System
 Established a stock option trading system to predict price trend and simulated a model-managed portfolio. 
+
 •	Created a Financial News Predictor object by Tweet scraping and defined text classifier, built databases storing critical keywords and labelled articles according to price data. 
+
 •	Cleaned the raw news and price data from API, extracted features and pre-processed the data, then aggregated the features and implemented the sentiment analysis using FinBERT model. 
+
 •	Optimized the price classification and regression model through XGBoost to predict prices. 
 
 Preprocessing:
