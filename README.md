@@ -16,8 +16,9 @@ Feature aggregator: SVD
 Exploratory Data Analysis: Match news_vectors and price data, select feature sklearn.feature_selection
 
 XGBoost: The model has a greater tendency to label news with 'do_nothing'.
+<img width="473" alt="Performance_Test" src="https://user-images.githubusercontent.com/92975748/235268279-1326fd47-4cd7-40d1-8629-f38ee280884d.png">
 
-<img width="499" alt="Performance" src="https://user-images.githubusercontent.com/92975748/235268103-97024ee5-8bfa-446f-92de-d1168416e00a.png">
+
 
 
 
